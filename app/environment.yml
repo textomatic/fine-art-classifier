@@ -1,0 +1,11 @@
+name: fine-art-classifier-app
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch=1.13.0
+  - torchvision=0.14.0
+  - pip:
+    - streamlit==1.13.*

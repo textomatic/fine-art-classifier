@@ -1,0 +1,6 @@
+cubism
+genre
+landscape
+portrait
+still-life
+surrealism
