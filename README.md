@@ -29,7 +29,7 @@ The classifier has been deployed as a web application.
 The GIF below demonstrates how to use it:
 ![](https://github.com/textomatic/fine-art-classifier/blob/main/images/app_demo.gif)
 
-The web app is hosted on Streamlit Cloud. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://www.streamlit.app) to try out the classifier.
+The web app is hosted on Streamlit Cloud. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fine-art-classifier.streamlit.app) to try out the classifier.
 
 ## How to run this project
 
