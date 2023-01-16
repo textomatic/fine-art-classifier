@@ -59,8 +59,8 @@ def predict(model, categories, image):
 
 
 if __name__ == '__main__':
-    st.set_page_config(page_title='Fine Art Genre Classifier')
-    st.title('Fine Art Genre Classifier')
+    st.set_page_config(page_title='Fine Art Painting Genre Classifier')
+    st.title('Fine Art Painting Genre Classifier')
     st.subheader('This web app classifies the genre of a fine art painting')
     categories = load_labels(LABELS_PATH)
     model = load_model(MODEL_PATH, categories)

@@ -1,4 +1,4 @@
-# Fine Art Genre Classifier
+# Fine Art Painting Genre Classifier
  
 **About this project**:
 
